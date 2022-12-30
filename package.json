@@ -6,7 +6,7 @@
 		"body-parser": "^1.0.1",
 		"chai": "^4.2.0",
 		"config": "^3.2.4",
-		"mocha": "^6.2.2",
+		"mocha": "^10.2.0",
 		"mochawesome": "^4.1.0",
 		"supertest": "^4.0.2"
 	},
